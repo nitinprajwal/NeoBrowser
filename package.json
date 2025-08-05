@@ -1,7 +1,7 @@
 {
-  "name": "electron-browser-shell",
+  "name": "neobrowser",
   "version": "1.0.0",
-  "description": "A minimal browser shell built on Electron.",
+  "description": "NeoBrowser: The Future of Intelligent Browsing.",
   "private": true,
   "workspaces": [
     "packages/shell",

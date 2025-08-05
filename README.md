@@ -52,3 +52,7 @@ NeoBrowser is an open-source project driven by a community of innovators. We wel
 ## License
 
 This project is licensed under the **GPL-3.0 License**. See the [LICENSE](LICENSE) file for more details.
+
+## 📫 Contact
+
+Nitin Prajwal R - [@nitinprajwalr](https://x.com/nitinprajwalr)
